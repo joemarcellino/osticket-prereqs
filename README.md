@@ -53,12 +53,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://github.com/joemarcellino/osticket-prereqs/assets/138168076/edf7d158-b3cd-4082-8eec-cd6f8323b37a" alt= "WF CGI"/>
 </p>
 <p>
-Turn on "CGI" from Windows Features
+Turn on "CGI" from Windows Features.
 </p>
+<br />
 <br />
 <p>
 <img src="https://github.com/joemarcellino/osticket-prereqs/assets/138168076/6dfc1043-ee23-46d0-b5f8-a4ee91dba73b" alt= "COMMON HTTPS FEATURES"/>
 <p/>
 <p>
-Turn on All "Common HTTPS Features" from Windows Features
+Turn on All "Common HTTPS Features" from Windows Features.
+</p>
+<br />
+<br />
+<p>
+<img src= "https://github.com/joemarcellino/osticket-prereqs/assets/138168076/7a941efd-2079-4ae6-809d-e60dea9fe6e9" alt= "IIS MANAGEMENT CONSOLE"/>
+<p>
+Turn on "IIS Management Console" from Windows Features.  
 </p>
