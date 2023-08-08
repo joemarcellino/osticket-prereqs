@@ -62,6 +62,15 @@ Check IIS is turned on by typing "127.0.0.1" into browser address bar.
 <p>
 <img src= "https://github.com/joemarcellino/osticket-prereqs/assets/138168076/6aba01c9-afbb-47de-a3a1-49926ea25e2f" alt= "IIS Check"/>
 </p>
+<br />
+<br />
+<p>
+Check IIS is turned on by typing "127.0.0.1" into browser address bar.  
+</p>
+<p>
+<img src= "https://github.com/joemarcellino/osticket-prereqs/assets/138168076/6aba01c9-afbb-47de-a3a1-49926ea25e2f" alt= "IIS Check"/>
+</p>
+
 
 
 
